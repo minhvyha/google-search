@@ -1,6 +1,9 @@
 # Google Search Page - CS50W
 ## [Watch it on youtube](https://youtu.be/A5CQmhk3PaE)
 ## [Live Demo](https://google-search-minhvyha.netlify.app/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/75df0e47-e1aa-41fb-9211-f86a3e3cbac5/deploy-status)](https://app.netlify.com/sites/google-search-minhvyha/deploys)
+
+
 
 ## **Description:**
 
