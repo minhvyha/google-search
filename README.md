@@ -16,13 +16,9 @@
 - Web development
 
 ### About this project
-\
-I am participating in a Web Competition on Grok Learning for students on which everyone needs to style a given HTML, and this is my preview for my submission.
-\
-\
-In this Web Competition, I was given a HTML as a skeleton for an online candle stored called 'The Fire Within'. I need to use my web design skills and css to style the page and compete with others' design.
+I have started a new journey with CS50W, a course from Harvard University. This course covers database design, scalability, security, user experience and fundamentals of web design. This course evaluates your skills through hands-on projects to help you gain experience writing and using APIs, create interactive UIs, and leverage cloud services like GitHub and Heroku.
 \
 \
-Voters need to compare two designs, side-by-side, and pick the one they like the most. The winner design will be decided by its win rate. I won this tournament as first place with the win rate of 84% against hundred of student worldwide.
+Students will need to use HTML, CSS and JavaScript to make the frontend and use Python with Django and SQL for the backend. This course also introduces essential tools for developers like Git, user interfaces, testing, CI/CD, scalability and security
 \
 ![preview img](/preview.png)
