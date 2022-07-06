@@ -1,4 +1,4 @@
-# Google Search Page
+# Google Search Page - CS50W
 ## [Watch it on youtube](https://youtu.be/A5CQmhk3PaE)
 ## [Live Demo](https://google-search-minhvyha.netlify.app/)
 
@@ -6,9 +6,7 @@
 
 ### Technologies used:
 
-- CSS
-- [Parallax Pixel Stars](https://codepen.io/mattmarble/pen/qBdamQz)
-
+- HTML | CSS
 
 ### Concepts in the project:
 
