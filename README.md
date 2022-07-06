@@ -21,4 +21,5 @@ I have started a new journey with CS50W, a course from Harvard University. This 
 \
 Students will need to use HTML, CSS and JavaScript to make the frontend and use Python with Django and SQL for the backend. This course also introduces essential tools for developers like Git, user interfaces, testing, CI/CD, scalability and security
 \
+\
 ![preview img](/preview.png)
